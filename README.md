@@ -1,7 +1,7 @@
 # Jogo-do-Termo
 
 Desenvolvedores:
-Matheus Eduardo Opelt
+Matheus Eduardo Opelt e
 Giovanna Campos Cordeiro
 
 Disciplina:
